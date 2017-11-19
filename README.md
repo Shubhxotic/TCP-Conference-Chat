@@ -1,6 +1,6 @@
 # TCP-Conference-Chat
 
-The code for the server is in tcp subfolder in the src folder. The file for the server is named TCPConferenceChat.java and for client is Client.java
+The code for the server and the client is in src/tcp/conference/chat directory. The file for the server is named TCPConferenceChat.java and for client is Client.java
 
 Clone this repo and run one instance of the Server and multiple instances of the Client.
 
